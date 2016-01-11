@@ -1,3 +1,6 @@
+# Mower
+Quiet simple automatic lawn mower engine
+
 ## Quick start
 
 ![Alt text](https://s-media-cache-ak0.pinimg.com/236x/af/ea/1d/afea1d4b9541696576638b7dbf47c45a.jpg)
@@ -26,3 +29,4 @@ $ mvn test
 
 REMARK: You will find the feature file for the cucumber tests in the resources folder of the test package
         You can modify the input information in this file as you wish
+
